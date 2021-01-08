@@ -10,7 +10,7 @@
 
  :sound:You want some sound:
 
-[GettingStarted - pygame wiki](https://www.pygame.org/wiki/GettingStarted#Pygame Installation)
+[GettingStarted - pygame wiki](https://www.pygame.org/wiki/GettingStarted#PygameInstallation)
 
 
 
